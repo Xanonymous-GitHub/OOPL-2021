@@ -1,6 +1,10 @@
 # OOPL-2021
 The final project of OOPL class, NTUT.
 
+## [重要！]請助教以這裡的 pdf 報告為主！！請助教直接忽略所有在i學園上傳的報告檔案！
+
+## [重要！][點擊這裡](https://github.com/Xanonymous-GitHub/OOPL-2021/archive/refs/heads/main.zip)可以直接下載封裝壓縮檔！
+
 ## **[重要！]本機測試流程**
 根據多次試驗，最方便快速的測試方式為
 
