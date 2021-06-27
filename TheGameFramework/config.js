@@ -1,18 +1,18 @@
 // By Raccoon
 // include namespace
 var Framework = (function (Framework) {
-	'use strict'
-	Framework.Config = function () {
-		this.fps = 60;
-		this.canvasWidth = 1600;  // 2017.02.20, ¹q¬y«æ«æ´Î
-		this.canvasHeight = 900;  // 2017.02.20, ¹q¬y«æ«æ´Î
+  'use strict'
+  Framework.Config = function () {
+    this.fps = 60;
+    this.canvasWidth = 1600;  // 2017.02.20, ï¿½qï¿½yï¿½ï¿½ï¿½ï¿½
+    this.canvasHeight = 900;  // 2017.02.20, ï¿½qï¿½yï¿½ï¿½ï¿½ï¿½
 //		this.canvasWidth = 1350;
 //		this.canvasHeight = 700;
 //		this.canvasWidth =  640;
 //		this.canvasHeight = 480;
-		this.isBackwardCompatiable = false;
-		this.isOptimize = false;  // 2017.02.20, from V3.1.1
-		this.isMouseMoveRecorded = false;
-	};
-	return Framework;
+    this.isBackwardCompatiable = false;
+    this.isOptimize = false;  // 2017.02.20, from V3.1.1
+    this.isMouseMoveRecorded = false;
+  };
+  return Framework;
 })(Framework || {});

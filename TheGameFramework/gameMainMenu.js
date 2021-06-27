@@ -3,12 +3,12 @@
  */
 
 var Framework = (function (Framework) {
-	'use strict'
-    Framework.GameMainMenu = Framework.exClass(Framework.Level , {
-        __construct : function(){
-            this.autoDelete = false;
-        }
-    });
+  'use strict'
+  Framework.GameMainMenu = Framework.exClass(Framework.Level, {
+    __construct: function () {
+      this.autoDelete = false;
+    }
+  });
 
-    return Framework;
+  return Framework;
 })(Framework || {});
