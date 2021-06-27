@@ -1,35 +1,16 @@
-# BaBa Is You
-<img src="https://i.imgur.com/44OJbB0.gif">
+# OOPL-2021
+The final project of OOPL class, NTUT.
 
-### [Play Now](https://baba.ntut.club/)
+## **[重要！]本機測試流程**
+根據多次試驗，最方便快速的測試方式為
 
-[![github pages](https://github.com/Xanonymous-GitHub/BaBaIsYou/actions/workflows/node.js.yml/badge.svg)](https://github.com/Xanonymous-GitHub/BaBaIsYou/actions/workflows/node.js.yml)
+1. Clone 本專案
+2. 請用 vscode 開啟本專案
+3. 在 vscode 安裝 [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+4. 從 vscode 的檔案瀏覽區，對著 index.html 檔案按右鍵選擇 「Open with Live Server」![](https://i.imgur.com/OOytRJj.webp)
+6. 瀏覽器開啟頁面後正常狀態為一片白色，請修改網址，去除後方的「index.html」![](https://i.imgur.com/NCHw8bA.png)
+8. 遊戲畫面出現
 
-## Announcement
-This is a reimplementation of a desktop game [Baba Is You](https://hempuli.com/baba/) which is **only used for educational purposes**.
-If you want the play the origin version of Baba Is You, please purchase it [here](https://store.steampowered.com/app/736260/Baba_Is_You/). 
-
-## Introduction
-Baba Is You is a puzzle game where the rules you have to follow are present as physical objects in the game world. 
-By manipulating the rules, you can change how the game works, repurpose things you find in the levels and cause surprising interactions!
-
-## How to Play
-In each level, you can see several objects and words on the game map. 
-You can use the arrow keys to control the movement of certain objects, find the associated word to the object that you can control, and you will see it makes a `BABA IS YOU` pattern.
-Next, find the object that is connected with the words `IS WIN` to end the game.
-Try to move blocks to use various patterns to solve every level!
-
-To know more about the rules, check out [Baba Is You Wiki](https://babaiswiki.fandom.com/wiki/Baba_Is_You_Wiki).
-(This project is just a clone version of Baba Is You, there might be some effects that are not equivalent to the original game.)
-
-## Controls
-`ESC`: Menu
-`R`: Restart level
-Arrow keys: Move up/down/left/right, you can also use W/A/S/D.
-
-## Bugs
-There are actually many bugs to be fixed in this project. If you find them while playing, please let us know as much as possible.
-
-## About us
-Hi! We are students from National Taipei University of Technology with a strong passion in programming.
-Check out our profiles if you like our projects!
+### Authors: 
+- Xanonymous 林天佑 108820003
+- Ricky 胡紹宇 108820008
