@@ -1,6 +1,8 @@
 # OOPL-2021
 The final project of OOPL class, NTUT.
 
+You can go to https://baba.ntut.club to play game directly.
+
 ## [重要！]請助教以這裡的 pdf 報告為主！！請助教直接忽略所有在i學園上傳的報告檔案！
 
 ## [重要！][點擊這裡](https://github.com/Xanonymous-GitHub/OOPL-2021/archive/refs/heads/main.zip)可以直接下載封裝壓縮檔！
